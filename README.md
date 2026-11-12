@@ -77,3 +77,6 @@ npm start
 cd backend
 dotnet test
 ```
+
+## Diagrammer
+Se docs for diagram ![Se diagram](docs/Diagram.png) på flyt og spørsmål
