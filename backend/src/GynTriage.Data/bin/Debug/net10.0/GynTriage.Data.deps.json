@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "GynTriage.Data/1.0.0": {
+        "dependencies": {
+          "GynTriage.Models": "1.0.0"
+        },
+        "runtime": {
+          "GynTriage.Data.dll": {}
+        }
+      },
+      "GynTriage.Models/1.0.0": {
+        "runtime": {
+          "GynTriage.Models.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GynTriage.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GynTriage.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

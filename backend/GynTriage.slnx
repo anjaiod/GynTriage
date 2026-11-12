@@ -1,0 +1,12 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/GynTriage.Api/GynTriage.Api.csproj" />
+    <Project Path="src/GynTriage.Data/GynTriage.Data.csproj" />
+    <Project Path="src/GynTriage.DatabaseTool/GynTriage.DatabaseTool.csproj" />
+    <Project Path="src/GynTriage.Models/GynTriage.Models.csproj" />
+    <Project Path="src/GynTriage.Services/GynTriage.Services.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/GynTriage.Tests/GynTriage.Tests.csproj" />
+  </Folder>
+</Solution>

@@ -1,0 +1,6 @@
+@GynTriage.Api_HostAddress = http://localhost:5223
+
+GET {{GynTriage.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
