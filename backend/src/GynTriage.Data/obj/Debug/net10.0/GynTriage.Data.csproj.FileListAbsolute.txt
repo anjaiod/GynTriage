@@ -13,3 +13,4 @@
 /Users/anjairenodegard/Documents/GynTriage/backend/src/GynTriage.Data/obj/Debug/net10.0/refint/GynTriage.Data.dll
 /Users/anjairenodegard/Documents/GynTriage/backend/src/GynTriage.Data/obj/Debug/net10.0/GynTriage.Data.pdb
 /Users/anjairenodegard/Documents/GynTriage/backend/src/GynTriage.Data/obj/Debug/net10.0/ref/GynTriage.Data.dll
+/Users/anjairenodegard/Documents/GynTriage/backend/src/GynTriage.Data/obj/Debug/net10.0/GynTriage.Data.sourcelink.json
